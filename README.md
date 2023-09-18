@@ -56,14 +56,14 @@ Texto. <br>
 # Scripts
 
 Bater. <br>
-<img src="img/reiniciar.png" width = "200" height = "200"><br>
+<img src="img/reiniciar.png" width = "250" height = "200"><br>
 Esse script é usado para recarregar a cena atual quando o jogador colide com um objeto que possui este script e é identificado como o jogador através da tag "Player".
 <br>
 PassarFase. <br>
-<img src="img/passarFase.png" width = "200" height = "200"><br>
+<img src="img/passarFase.png" width = "250" height = "200"><br>
 Este script é usado para permitir que o jogador passe para a próxima fase do jogo quando colidir com um objeto que possui este script e é identificado como o jogador pela tag "Player".
 <br>
 Movimento. <br>
-<img src="img/Movimento.png" width = "200" height = "200"><br>
+<img src="img/Movimento.png" width = "250" height = "200"><br>
 Este script permite que um objeto se mova para a frente a uma velocidade definida pela variável "velocidade" e também permite que o objeto pule ligeiramente no eixo vertical quando a tecla de espaço é pressionada.
 <br>
