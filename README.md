@@ -43,6 +43,15 @@ Caixas. <br>
 Chão. <br>
 <img src="img/.png" width = "200" height = "200">
 <br>
+Cube(utilizado para fazer a troca de cena). <br>
+<img src="img/.png" width = "200" height = "200">
+<br>
+
+# Cena 3
+
+Texto. <br>
+<img src="img/.png" width = "200" height = "200">
+<br>
 
 # Scripts
 
