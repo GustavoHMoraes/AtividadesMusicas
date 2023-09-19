@@ -1,6 +1,9 @@
 # AtividadesMusicas
 
 # Link Do Drive
+Videos:
+https://drive.google.com/file/d/1qgdXi45Rg7dmvBopes7Hqdy2rCcqwVWP/view?usp=drive_link
+https://drive.google.com/file/d/1JOTvqYpte1tET8gSJwC1LXkWRXZaJY4V/view?usp=drive_link
 
 https://drive.google.com/drive/folders/1S_ftPZ37fnE9mTqpsUsscoRpROgtL3Ih?usp=drive_link
 
